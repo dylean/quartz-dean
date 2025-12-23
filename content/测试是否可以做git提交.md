@@ -12,3 +12,5 @@
 
 利用GitHub pages 做博客
 也没什么心智负担
+
+了解一下 submodules 的模式
