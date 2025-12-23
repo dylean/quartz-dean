@@ -9,6 +9,7 @@ title: Welcome to Dean's Digital Garden
 ## 最近更新
 
 在这里浏览我的笔记，或使用左侧搜索功能查找内容。
+nb 可以用 obsidian 写博客了
 
 ## 关于
 
